@@ -126,3 +126,7 @@
 .container-fluid.indexnews .indexnewsbox li.newdetail .date p{text-align: center;font-family: arial;color: #005bac;margin-bottom: 0;}
 .container-fluid.indexnews .indexnewsbox li.newdetail .date p:nth-child(1){font-size: 42px;line-height: 50px;}
 .container-fluid.indexnews .indexnewsbox li.newdetail .date p:nth-child(2){font-size: 14px;line-height: 20px;}
+
+.container-fluid.indexnews .indexnewsbox li.newdetail .nameinfo p{padding: 0 15px;margin-bottom: 0;}
+.container-fluid.indexnews .indexnewsbox li.newdetail .nameinfo p:nth-child(1){font-size: 18px;line-height: 30px;color: #005bac;}
+.container-fluid.indexnews .indexnewsbox li.newdetail .nameinfo p:nth-child(2){font-size: 12px;line-height: 20px;margin-top: 5px;height: 40px;overflow: hidden;}
